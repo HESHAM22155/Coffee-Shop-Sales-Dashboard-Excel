@@ -11,7 +11,7 @@ One of my projects focuses on building an **interactive Coffee Shop Sales Dashbo
 Excel | Pivot Tables | Slicers | Dynamic Formulas | Charts & Dashboard Design | Data Storytelling
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Coffee-Shop-Dashboard-Excel/screenshots/dashboard.png)
 
 ## 🙏 Acknowledgment
 Special thanks to **Dina Ezzat, M.Sc.**  
